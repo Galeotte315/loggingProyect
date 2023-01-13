@@ -21,11 +21,11 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-dark " style="background-color: #1e3f57;">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="https://e7.pngegg.com/pngimages/703/597/png-clipart-logo-house-home-house-angle-building-thumbnail.png" 
-                    class="img-rounded" alt="Third slide" height="50px" width="50px">
+                    <!-- <img src="https://e7.pngegg.com/pngimages/703/597/png-clipart-logo-house-home-house-angle-building-thumbnail.png" 
+                    class="img-rounded" alt="Third slide" height="50px" width="50px"> -->
                       Inicio
                      <!--{{ config('app.name', 'Laravel') }}-->
                 </a>
